@@ -18,4 +18,4 @@ The Unifox Services Website is a modern and sleek one-page website designed to s
 
 ## Live Preview
 
-You can view a live preview of this project [here](https://example.com).
+You can view a live preview of this project [here](https://jihado-i.github.io/Unifox-Service-Website/).
