@@ -1,14 +1,13 @@
 # Unifox Services Website
-
-## Description
-
-The Unifox Services Website is a modern and sleek one-page website designed to showcase the various services offered by Unifox, a digital solutions company. The website provides a user-friendly interface for visitors to learn about Unifox's services, including strategy consulting, creative design, development, marketing, innovation, and app design.
+I developed this elegant website to reflect my abilities in website design and development. It is a landing page designed to display the various services provided by any company (any company can use it). The website provides an easy-to-use interface for visitors to learn about the company's services.
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
+- FontAwesome
+- GoogleFont
 
 ## Key Features
 
@@ -17,5 +16,4 @@ The Unifox Services Website is a modern and sleek one-page website designed to s
 - **Engaging Content Sections:** Each service is presented with icons and descriptions to provide comprehensive information.
 
 ## Live Preview
-
 You can view a live preview of this project [here](https://jihado-i.github.io/Unifox-Service-Website/).
