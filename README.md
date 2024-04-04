@@ -12,6 +12,7 @@ I developed this elegant website to reflect my abilities in website design and d
 - FontAwesome
 - GoogleFont
 
+
 ## Key Features
 
 - **Responsive Design:** Ensures seamless viewing across devices.
